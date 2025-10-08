@@ -31,7 +31,7 @@ export function Login() {
             <Zap className="w-10 h-10 text-white" />
           </div>
           <h1 className="text-display font-bold text-gradient mb-4">
-            LineTracker
+            Vantage
           </h1>
           <p className="text-xl text-dark-400 leading-relaxed">
             Premium betting line movement tracking

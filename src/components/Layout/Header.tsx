@@ -24,7 +24,7 @@ export function Header() {
               <div className="w-10 h-10 bg-gradient-to-r from-brand-primary to-brand-secondary rounded-xl flex items-center justify-center">
                 <Zap className="w-6 h-6 text-white" />
               </div>
-              <span>LineTracker</span>
+              <span>Vantage</span>
             </button>
           </div>
 
